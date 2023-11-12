@@ -127,11 +127,6 @@ class MyApp extends StatelessWidget {
 - [Nurhayat Yurtaslan](https://github.com/NurhayatYurtaslan)
 - [Abdulsamed Tanriverdi](https://github.com/Allahverdyy)
 
-
-## Supporting
-- [Gürkan Fikret Günak](https://github.com/gurkanfikretgunak)
-- [Melih Gündoğan](https://github.com/melihgundogan)
-
 ## 📝 License
 
 Copyright © 2023 [Nurhayat Yurtaslan](https://github.com/NurhayatYurtaslan).<br />
