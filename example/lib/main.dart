@@ -13,13 +13,12 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         backgroundColor: Colors.grey,
-        body: Padding(
-          padding: const EdgeInsets.only(left: 70),
-          child: Column(
-              mainAxisAlignment: MainAxisAlignment.center,
-              crossAxisAlignment: CrossAxisAlignment.center,
-              children: [
-                SmoothButton(
+        body: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: [
+              Center(
+                child: SmoothButton(
                   activeIconColor: Colors.red,
                   duration: const Duration(milliseconds: 300),
                   icon: Icons.favorite,
@@ -35,10 +34,12 @@ class MyApp extends StatelessWidget {
                     fontSize: 25,
                   ),
                 ),
-                SizedBox(
-                  height: 50,
-                ),
-                SmoothButton(
+              ),
+              SizedBox(
+                height: 50,
+              ),
+              Center(
+                child: SmoothButton(
                   pasifeIconColor: Colors.green,
                   activeIconColor: Colors.black,
                   duration: const Duration(milliseconds: 500),
@@ -49,8 +50,8 @@ class MyApp extends StatelessWidget {
                   buttonwidth: 100,
                   borderRadius: 20, iconSize: 60,
                 ),
-              ]),
-        ),
+              ),
+            ]),
       ),
     );
   }
