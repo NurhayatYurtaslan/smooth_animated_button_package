@@ -1,5 +1,6 @@
-import 'package:example/widget/widget.dart';
+
 import 'package:flutter/material.dart';
+import 'package:smooth_animated_button_press/button.dart';
 
 
 void main() {
@@ -14,7 +15,8 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         backgroundColor: Colors.grey[300],
-        body: const Center(child: ExampleSmoothButton()),
+        body: Center(child: SmoothButton(
+    )),
       ),
     );
   }
