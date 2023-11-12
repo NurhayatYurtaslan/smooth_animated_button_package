@@ -101,7 +101,7 @@ class _SmoothButtonState extends State<SmoothButton> {
                   ? widget.activeIconColor
                   : widget.pasifeIconColor,
             ),
-            SizedBox(width: 8),
+            const SizedBox(width: 8),
             Text(
               widget.text,
               style: widget.textStyle,
