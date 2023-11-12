@@ -25,5 +25,3 @@ flutter:
       android:
         package: com.example.smooth_animated_button_package
         pluginClass: SmoothAnimatedButtonPackagePlugin
-      ios:
-        pluginClass: SmoothAnimatedButtonPackagePlugin
