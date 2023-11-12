@@ -1,4 +1,14 @@
  <h1>SmoothButton Package ✨🔘</h1>
+<p>
+<a href="https://developer.android.com" style="pointer-events: stroke;" target="_blank">
+<img src="https://img.shields.io/badge/platform-android-blue">
+</a>
+</a>
+<a href="https://github.com/NurhayatYurtaslan/smooth_animated_button_press/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-purple.svg" alt="MIT License"></a>
+</p>
+
+</br>
+
 
 <div> 
 <img width="300" height="600" src="https://github.com/NurhayatYurtaslan/smooth_animated_button_package/blob/main/image/one.png?raw=true">
