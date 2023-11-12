@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:smooth_animated_button_press/button.dart';
+import 'package:smooth_animated_button_package/button.dart';
 
 void main() {
   runApp(const MyApp());
