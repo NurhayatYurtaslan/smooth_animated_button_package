@@ -1,4 +1,5 @@
  <h1>SmoothButton Package ✨🔘</h1>
+
   <p>The <span class="highlight">SmoothButton</span> package is a customizable button package for Flutter that provides a smooth and interactive user experience. It features a widget called <span class="highlight">SmoothButton</span> which can be easily integrated into your Flutter applications. The package offers a wide range of customization options, allowing you to tailor the button's appearance to your specific needs.</p>
 
   <p>With the <span class="highlight">SmoothButton</span> package, you can create buttons that not only look great but also provide a seamless user experience. The package allows you to customize various aspects of the button, such as the button colors, icon colors, shadow effects, border radius, animation duration, and more. This flexibility enables you to align the button's visual style with your app's overall design language, ensuring a consistent and polished look.</p>
@@ -124,9 +125,17 @@ class MyApp extends StatelessWidget {
 ## Contributors 
 
 - [Nurhayat Yurtaslan](https://github.com/NurhayatYurtaslan)
-- [Abdulsamed Tanrıverdi](https://github.com/Allahverdyy)
+- [Abdulsamed Tanriverdi](https://github.com/Allahverdyy)
 
 
 ## Supporting
 - [Gürkan Fikret Günak](https://github.com/gurkanfikretgunak)
 - [Melih Gündoğan](https://github.com/melihgundogan)
+
+## 📝 License
+
+Copyright © 2023 [Nurhayat Yurtaslan](https://github.com/NurhayatYurtaslan).<br />
+Copyright © 2023 [Abdulsamed Tanriverdi](https://github.com/Allahverdyy).<br />
+
+This project is [MIT](https://github.com/NurhayatYurtaslan/smooth_animated_button_press/blob/main/LICENSE) licensed.
+
