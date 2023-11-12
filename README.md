@@ -16,14 +16,14 @@
 
 ## Versions
 
-|Versions Name | Version |  
+|Versions      | Version |  
 |--------------|---------|
 | Flutter      | 3.13.0  |
 | Dart         | 3.1.0   |
 
 ## Support
 
-| Support Name | Version |  
+| Support      | Version |  
 |--------------|---------|
 | Android      | SDK 16+ |
 | iOS          | 11.0+   |
