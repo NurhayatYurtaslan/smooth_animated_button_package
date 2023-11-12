@@ -20,8 +20,3 @@ dev_dependencies:
   flutter_lints: ^2.0.0
 
 flutter:
-  plugin:
-    platforms:
-      android:
-        package: com.example.smooth_animated_button_package
-        pluginClass: SmoothAnimatedButtonPackagePlugin
